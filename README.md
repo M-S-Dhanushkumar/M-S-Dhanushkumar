@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-S-Dhanushkumar.Working as a Clinical Database Programmer.
+- 👋 Hi, I’m @M-S-Dhanushkumar.Working as a **Clinical Database Programmer**.
 - 👀 I’m interested in data and data driven applications.
 - 🌱 I’m currently learning Linux DevOps.
 - 💞️ I’m looking to collaborate on www.linkedin.com/in/dhanushkumar-m-s
